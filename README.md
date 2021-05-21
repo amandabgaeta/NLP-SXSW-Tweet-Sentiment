@@ -36,7 +36,7 @@ Note: this analysis can be found in Preprocessing_V1.pdf
 
 Additionally WordCloud iterations in Preprocessing_V2.pdf can show us:
 - In positive sentiment tweets:
-  - More Apple product representation (ipad, iphone, ipad2, iphone app) in positive sentiment tweets
+  - More Apple product representation (ipad, iphone, ipad2, iphone app)
   - Apple products largely mentioned over brand versus Google which was more brand heavy
 
 - In neutral/negative sentiment tweets:
